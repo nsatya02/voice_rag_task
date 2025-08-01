@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-groq
+lancgchain-huggingface
+groq
+dotenv
+pydantic
+faiss-cpu
